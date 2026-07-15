@@ -1,0 +1,1 @@
+C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\target\debug\quest02.exe: C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\copy\src\lib.rs C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\src\main.rs

@@ -1,0 +1,1 @@
+C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\doubtful\target\debug\doubtful.exe: C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\doubtful\src\lib.rs C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\doubtful\src\main.rs
