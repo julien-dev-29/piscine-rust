@@ -1,11 +1,11 @@
-use copy::*;
+use changes::*;
 
 fn main() {
-    let a = "1 2 4 5 6".to_owned();
-    let b = vec![1, 2, 4, 5];
-    let c = 0;
+    let mut lights = ["living_room", "bedroom", "rest_room"].map(Light::new);
 
-    println!("{:?}", nbr_function(c));
-    println!("{:?}", vec_function(b));
-    println!("{:?}", str_function(a));
+    println!("brightness = {}", lights[0].brightness);
+
+    change_brightness(&mut lights, "living_room", 200);
+
+    println!("new brightness = {}", lights[0].brightness);
 }
