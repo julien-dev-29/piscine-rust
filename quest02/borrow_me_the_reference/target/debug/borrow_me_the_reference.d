@@ -1,0 +1,1 @@
+C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\borrow_me_the_reference\target\debug\borrow_me_the_reference.exe: C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\borrow_me_the_reference\src\lib.rs C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\quest02\borrow_me_the_reference\src\main.rs
