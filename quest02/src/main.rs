@@ -1,11 +1,9 @@
-use changes::*;
+use string_literals::*;
 
 fn main() {
-    let mut lights = ["living_room", "bedroom", "rest_room"].map(Light::new);
-
-    println!("brightness = {}", lights[0].brightness);
-
-    change_brightness(&mut lights, "living_room", 200);
-
-    println!("new brightness = {}", lights[0].brightness);
+    println!("{}", is_empty(""));
+    println!("{}", is_ascii("rust"));
+    println!("{}", contains("rust", "ru"));
+    println!("{:?}", split_at("rust", 2));
+    println!("{}", find("rust", 'u'));
 }
