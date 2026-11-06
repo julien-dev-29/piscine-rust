@@ -16,10 +16,15 @@ version = "0.1.0"
 dependencies = [
  "fibonacci2",
  "groceries",
+ "reverse_string",
  "scalar",
  "speed_transformation",
  "temperature_conv",
 ]
+
+[[package]]
+name = "reverse_string"
+version = "0.1.0"
 
 [[package]]
 name = "scalar"
