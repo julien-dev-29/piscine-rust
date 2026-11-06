@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 fibonacci2 = {path = "./fibonacci2"}
 scalar = {path = "./scalar"}
+temperature_conv = {path = "./temperature_conv"}
