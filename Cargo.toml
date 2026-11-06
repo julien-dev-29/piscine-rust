@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 fibonacci2 = {path = "./fibonacci2"}
+scalar = {path = "./scalar"}

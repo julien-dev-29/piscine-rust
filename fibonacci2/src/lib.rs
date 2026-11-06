@@ -12,7 +12,7 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let result = add(2, 2);
-        assert_eq!(result, 4);
+        let result = fibonacci2(22);
+        assert_eq!(result, 17711);
     }
 }
