@@ -1,7 +1,0 @@
-[package]
-name = "quest02"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-string_literals= { path = "./string_literals" }

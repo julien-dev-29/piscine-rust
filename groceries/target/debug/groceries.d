@@ -1,1 +1,0 @@
-C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\groceries\target\debug\groceries.exe: C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\groceries\src\lib.rs C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\groceries\src\main.rs

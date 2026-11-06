@@ -1,1 +1,0 @@
-C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\scalar\target\release\scalar.exe: C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\scalar\src\lib.rs C:\Users\Julien\Desktop\DEV\01edu\piscine-rust\scalar\src\main.rs
