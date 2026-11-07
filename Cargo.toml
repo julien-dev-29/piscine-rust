@@ -13,3 +13,4 @@ reverse_string = {path = "./reverse_string"}
 find_factorial = {path = "./find_factorial"}
 matrix_transposition = {path = "./matrix_transposition"}
 division_and_remainder = {path = "./division_and_remainder"}
+tuples_refs = {path = "./tuples_refs"}
